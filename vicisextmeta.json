@@ -1,0 +1,28 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://t.ly/9EFv",
+        "url_png_logo": "https://t.ly/GCTR",
+        "location": "",
+        "social": {
+            "twitter_handle": "VICISpool",
+            "telegram_handle": "VICISpool",
+            "facebook_handle": "VICISpool",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "VICIS",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+        },
+        "about": {
+            "me": "Skilled, passionate and experienced friends in their 30s, raised on bread and MS-DOS, everyday life transversal professionals at the service of growing and improving Cardano ecosystem",
+            "server": "BlockProducer 2010 Intel Xeon X3470 16Gb RAM 250Gb SSD and Relay 2010 Intel i3-550 12Gb RAM 250Gb SSD make a full private baremetal node running 100% solar energy. 2 cloud relays for extended DDoS security",
+            "company": "Unique mixed Baremetal/cloud stakepool, secure and reliable staking, 100% uptime, 0% fees."
+        }
+    }
+}
