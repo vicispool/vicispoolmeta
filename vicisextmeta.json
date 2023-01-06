@@ -22,7 +22,8 @@
         "about": {
             "me": "Skilled, passionate and experienced friends in their 30s, raised on bread and MS-DOS, everyday life transversal professionals at the service of growing and improving Cardano ecosystem",
             "server": "BlockProducer 2010 Intel Xeon X3470 16Gb RAM 250Gb SSD and Relay 2010 Intel i3-550 16Gb RAM 250Gb SSD make a full private baremetal node running 100% solar energy. 3 cloud relays for extended DDoS security",
-            "company": "Unique mixed Baremetal/cloud stakepool, secure and reliable staking, 100% uptime, 0% fees."
+            "company": "Unique mixed Baremetal/cloud stakepool, secure and reliable staking, 100% uptime, 0% fees.",
+            "verificationcex": "893877661579fb428c"
         }
     }
 }
